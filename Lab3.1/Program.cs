@@ -6,8 +6,9 @@ namespace Lab3._1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("WElcome to Lab 3.1!");
+            Console.WriteLine("Welcome to Lab 3.1!");
             Console.WriteLine("Hello World!");
+
         }
     }
 }
